@@ -17,7 +17,7 @@
     "react-dom": "^18.3.1",
     "react-image-file-resizer": "^0.4.8",
     "react-markdown": "^9.0.1",
-    "react-router-dom": "^6.27.0",
+    "react-router-dom": "^6.30.3",
     "rehype-highlight": "^7.0.1",
     "rehype-raw": "^7.0.0",
     "rehype-slug": "^6.0.0",
@@ -34,6 +34,11 @@
     "globals": "^15.11.0",
     "typescript": "~5.6.2",
     "typescript-eslint": "^8.10.0",
-    "vite": "^5.4.9"
+    "vite": "^6.2.0"
+  },
+  "overrides": {
+    "ajv": "^8.18.0",
+    "cross-spawn": "^7.0.6",
+    "nanoid": "^3.3.8"
   }
 }
